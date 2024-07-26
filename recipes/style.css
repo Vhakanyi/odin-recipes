@@ -2,5 +2,12 @@ body {
     background-color: #fefdf7;
     color: #212121;
     font-family: Pacifico;
-
 }
+
+h1,
+h2,
+h3,
+h4{
+    color:  #9C27B0;
+}
+
