@@ -11,3 +11,11 @@ h4{
     color:  #9C27B0;
 }
 
+img{
+    border-radius: 50px;
+    border: 1px solid #fefdf7;
+    padding: 80px;
+    height: auto;
+    max-width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
