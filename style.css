@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(35, 94, 74);
+    color: #212121;
+    font-family: Pacifico;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0J5THLcMThKeAZkb9tAJI8oC--2Q-vRD76g&s);
+    background-size: cover;
+}
+
+h1,
+h2,
+h3,
+h4{
+    color:  #9C27B0;
+    padding-left: 4%;
+    padding-right: 4%;
+    text-decoration: double;
+}
+
+ul,ol{
+    color: orange;
+    padding-left: 8%;
+    padding-right: 4%;
+}
+
+a{
+    color: black;
+    text-decoration: double;
+}
