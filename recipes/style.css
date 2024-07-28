@@ -9,13 +9,37 @@ h2,
 h3,
 h4{
     color:  #9C27B0;
+    padding-left: 4%;
+    padding-right: 4%;
 }
 
 img{
-    border-radius: 50px;
-    border: 1px solid #fefdf7;
-    padding: 80px;
-    height: auto;
-    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    padding: 2%;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #E0E0E0;
+    height: fit-content;
+    width: 50%;  
+}
+
+p{
+    color: green;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+ul,ol{
+    color: #FF5722;
+    padding-left: 8%;
+    padding-right: 4%;
+}
+
+ol{
+    color: #FF5722;
+}
+strong{
+    color: #212121;
 }
