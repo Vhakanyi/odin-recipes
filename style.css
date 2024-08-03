@@ -1,28 +1,26 @@
 body {
-    background-color: rgb(35, 94, 74);
+    background-color:#c0ebf7;
     color: #212121;
     font-family: Pacifico;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0J5THLcMThKeAZkb9tAJI8oC--2Q-vRD76g&s);
-    background-size: cover;
 }
 
 h1,
 h2,
 h3,
 h4{
-    color:  #9C27B0;
+    color: #27bdce;
     padding-left: 4%;
     padding-right: 4%;
     text-decoration: double;
 }
 
 ul,ol{
-    color: orange;
+    color: #524dab;
     padding-left: 8%;
     padding-right: 4%;
 }
 
 a{
-    color: black;
+    color: #3db4ff;
     text-decoration: double;
 }
